@@ -26,5 +26,9 @@ This project consists of various pages and subpages that are:
 
 The Menu page provides the cart functionality. It uses JavaScript event listeners, query selectors and local storage to provide cart service. Each product contain multiple products with add to cart button. By clicking this button, the record is added to your cart that you can see on the cart. By Clicking on checkout button you will redirect to checkout page, where you provide all your personal information for delievery.
 
+![](https://images.samimunir2002.repl.co/checkout.png)
+
 ## Tools Used:
 HTML5, CSS3, BOOTSTRAP v4.6.0 and JS for this project
+
+To see complete project go on this link: https://candystore.samimunir2002.repl.co/index.html 
