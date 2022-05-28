@@ -32,3 +32,26 @@ The Menu page provides the cart functionality. It uses JavaScript event listener
 HTML5, CSS3, BOOTSTRAP v4.6.0 and JS for this project
 
 To see complete project go on this link: https://candystore.samimunir2002.repl.co/index.html 
+
+# Feedback✌🏼
+
+If you have any feedback or suggestions please reach out to me.  
+
+Or you can create a  <a href="https://github.com/samipak458/CandyStore/issues">issue</a> and mention there , which new features or extension can make this Project more good.
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+<br>
+  
+<br>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-red?style=for-the-badge" /></a></p>
+
+<div align="center">
+
+### Show some ❤️ by starring⭐ this awesome Repository!
+
+</div>
+  
+  
+<div id="Bottom"></div>
